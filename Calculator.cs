@@ -17,7 +17,6 @@ namespace GitPracticeLab
         public double Mod(double a, double b)
         {
             return a % b;
-        }
 
         // Try adding new methods here (e.g., Subtract, Divide)
     }
