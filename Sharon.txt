@@ -48,7 +48,7 @@ namespace SOLID_PRINCIPLES.SRP
     }
 }
 
-***************************************************************
+
 
 namespace SOLID_PRINCIPLES.OCP
 {
