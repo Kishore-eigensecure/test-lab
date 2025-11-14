@@ -1,3 +1,5 @@
+Before applying SRP
+
 public class Report
 {
     public void GenerateReport() { }
