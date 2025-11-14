@@ -3,3 +3,16 @@ public class Report
     public void GenerateReport() { }
     public void SaveToFile() { }
 }
+
+After applying SRP
+
+public class Report
+{
+    public void GenerateReport() { }
+}
+
+public class ReportSaver
+{
+    public void SaveToFile() { }
+}
+
